@@ -22,7 +22,7 @@
 |Key|Type|Description|
 |:-----------|:-----------|:-----------|
 |hour|Int|0 ~ 23|
-|minutes|Int|0 ~ 59|
+|minute|Int|0 ~ 59|
 |week|Int|0 = Weekday, 1 = Saturday, 2 = Sunday or Holiday|
 |isNonstop|Bool|true = 直行便|
 |isOnlyOnSchooldays|Bool|true = 登校期間のみ|
